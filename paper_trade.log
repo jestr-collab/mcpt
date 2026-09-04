@@ -1,0 +1,19 @@
+2026-09-03 20:30:41,906 INFO ==================================================
+2026-09-03 20:30:41,906 INFO GLD Paper Trading System
+2026-09-03 20:30:41,906 INFO ==================================================
+2026-09-03 20:30:41,906 INFO Loading historical data for model training...
+2026-09-03 20:30:42,011 INFO Model trained on 1193 samples, accuracy: 0.607
+2026-09-03 20:30:42,012 INFO Fetching latest market data...
+2026-09-03 20:30:42,834 INFO Latest data: 83 bars, last date: 2026-09-03 00:00:00
+2026-09-03 20:30:42,846 INFO Signal: LONG | Confidence: 0.663
+2026-09-03 20:30:42,846 INFO Date: 2026-09-03 00:00:00 | Price: $410.22
+2026-09-03 20:30:42,846 INFO Signal: LONG | Confidence: 0.663
+2026-09-03 20:30:43,141 INFO Current position: 0 shares (None)
+2026-09-03 20:30:43,213 INFO LONG 1 shares of GLD at ~$410.22
+2026-09-03 20:30:43,214 INFO Trade logged: {'date': '2026-09-03 00:00:00', 'signal': 1, 'confidence': np.float64(0.6627), 'price': np.float64(410.22), 'action': 'LONG'}
+2026-09-03 20:30:43,431 INFO 
+Account Summary:
+2026-09-03 20:30:43,432 INFO Portfolio value: $100,000.00
+2026-09-03 20:30:43,432 INFO Cash: $100,000.00
+2026-09-03 20:30:43,432 INFO P&L: $0.00
+2026-09-03 20:30:43,432 INFO Done.
